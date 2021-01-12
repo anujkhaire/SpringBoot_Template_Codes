@@ -1,0 +1,18 @@
+### Files ###
+HELP.md
+mvnw
+
+
+### Folders ###
+target/
+src/test/
+src/main/resources/
+
+
+### IntelliJ IDEA ###
+.idea/
+.mvn/
+*.iws
+*.iml
+*.ipr
+*.cmd
